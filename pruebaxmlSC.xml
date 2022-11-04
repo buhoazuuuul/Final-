@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consideración de Brujas y Otras Gentes Engañosas</title>
+            <author>Pedro Gómez Valderrama</author>
+            <editor>Santiago Castellanos-Meléndez</editor>
+                    </titleStmt>
+         <publicationStmt>
+            <p>Edición basada en la revista Mito</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date when= "1997">1997</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      <head>Consideración de Brujas y Otras Gnetes Engañosas</head>
+         <div type="chapter">
+         <head>I</head>  
+         <p><lb/>La torre gótica ha esparcido el silencio en la  noche del pueblo 
+<lb/>-en  los Pirineos, o en una apartada región británica, o a la ori­lla
+<lb/>del Rhin-. Es la  noche del 30 de abril, la noche de Walpurgis.
+<lb/>La luna acumula medrosamente las sombras en la calle, y por nada 
+<lb/>del mundo ninguno de los vecinos del  pueblecillo situado en 
+<lb/>las postrimerías de la	Edad Media, saldría del cobijo seguro de 
+<lb/>su casa. Sin embargo tras los fuertes postigos de madera alguien 
+<lb/>vigila en todas y cada una de las casas. Todos los ojos se dirigen 
+<lb/>a lo alto, esperando ver pasar la bruja en su cabalgadura siniestra.
+<lb/>El solo paso de una nube pondrá pavor en los ánimos más tem­plados
+<lb/>Pero ,entre tanto, hay una, dos, tres, más sombras, que se 
+<lb/>mueven sigilosa1nente a través del	empedrado de las calles estrechas, 
+<lb/>seguras de que los ojos dirigidos hacia arriba las dejarán 
+<lb/>escapar desapercibidas. Apenas pasado el recinto de la villa, y co­bijándose 
+<lb/>bajo la pesada sombra que arroja la	masa del castillo 
+<lb/>feudal -del cual acaso sale otra sombra a reunirse con ellas- pa­san 
+<lb/>de los lugares donde pueden ser sorprendidas, y adentrándo­se 
+<lb/>en el bosque, llegan por fin a un claro de aquél, en el cual se 
+<lb/>escucha una música asardinada y monótona, y acaso encuentran 
+<lb/>ya que las sombras reunidas de hombres y mujeres danzan, tal y 
+<lb/>como lo cuenta uno de los tantos que recogieron testimonios  so­bre 
+<lb/>la hechicerÍa: "Los hechiceros danzan y tejen su danza en 
+<lb/>círculo, espalda contra espalda. Los cojos van más dispuestamen­te 
+<lb/>que los otros, y les incitan a saltar y danzar... A veces, 
+<lb/>pero raramente, danzan de dos en dos, a veces uno acá, el otro allá, y 
+<lb/>siempre en confusión, son estas danzas semejantes a las de las Ha­das, 
+<lb/>verdaderos Diablos incorporados"(1).</p><lb/>
+<p><lb/>Ha comenzado el sabbath.  Por las descripciones,  podemos	re­conocer 
+<lb/>el lugar señalado por "un bloque de piedra  aislado, de 
+<lb/>aspecto extraordinario, y llamado generalmente "piedra del dia­blo"
+<lb/>(2). O bien, si no existe el signo pétreo encontramos otro, co­mo 
+<lb/>el que indica Jean Bodin: "Los lugares de las asambleas de hechiceros 
+<lb/>son notables, y señalados de algunos árboles en cruz". Así 
+<lb/>como cncontramos otra indicación que nos ayuda a comprender 
+<lb/>el lugar, en este aparte de las Leyes de Canuto (S. XI. Inglate­rra): 
+<lb/>"Severamente prohibimos todo paganismo; paganismo es que 
+<lb/>los hombres adoren ídolos; esto es, que adoren dioses paganos, o 
+<lb/>piedras, o árboles del bosque de cualquier clase". Según algunos 
+<lb/>-coincidiendo todos en señalar un sitio cercano a las aldeas- el 
+<lb/>sabbath se cumplía muchas veces en los cruces de caminos, en lo 
+<lb/>cual posiblemente se encuentre una referencia religiosa. Y hay 
+<lb/>casos en que se cumplía dentro de la ciudad; esto, generalmente 
+<lb/>no en	la noche de Walpurgis sino en él festival de la víspera del 
+<lb/>primero de noviembre (All hallows eve), y en aquellas otras fe­chas 
+<lb/>en que e! festival decía cumplirse en otoño o invierno. El 
+<lb/>festival se prolongaba desde la medianoche hasta el alba, hora en 
+<lb/>la cual, según De Lancre, el canto del gallo ordenaba la retirada a 
+<lb/>los hechiceros.</p><lb/>
+<p><lb/>En el "Pleasant Treatise of Witches", obra aparecida en Lon­dres 
+<lb/>en 1673, cuando ya el auge de la hechicería se encontraba en 
+<lb/>su clímax y comenzaba a ceder, hay una viva descripción, cuyos 
+<lb/>apartes nos muestran cómo concebía la imaginación de la época 
+<lb/>el aquelarre de los brujos:</p><lb/>
+<p><lb/>"Ellos son llevados fuera de su casa, ya sea por la ventana, la 
+<lb/>puerta o la chimenea, montados en sus escobas... y así traídos 
+<lb/>al sitio designado, encuentran gran número de compañeros llega­dos 
+<lb/>allí por los mismos medios: Los cuales, antes de que Lucifer 
+<lb/>tome su puesto en el trono como Rey, deben tributarle su acos­tumbrado 
+<lb/>homenaje, adorándole y proclamándole como su Señor, 
+<lb/>y rindiéndole todo honor. Terminada esta solemnidad, se sientan 
+<lb/>a la mesa, donde no faltan delicados manjares... Al sonido de 
+<lb/>muchos agradables instrumentos, se retira la mesa, y el amable 
+<lb/>consorte invita a todos a la Danza... Por último las luces se apa­gan. 
+<lb/>Los íncubos en forma de hombres cabales satisfacen los de­seos 
+<lb/>de las hechiceras, y los súcubos sirven como rameras a los 
+<lb/>brujos. Finalmente, antes de que la Aurora traiga de nuevo el 
+<lb/>día, cada uno cabalga en su espíritu, y retorna a su morada". Con­cluye 
+<lb/>el párrafo citado, con los grotescos detalles del ósculo de 
+<lb/>homenaje al demonio.</p>
+<p><lb/>Esta es, pues, la "mise en scene" que durante siglos los calen­turientos 
+<lb/>cerebros de los cazadores de brujas manejaron a lo lar­go 
+<lb/>y a lo ancho de Europa. De ella surgieron las implicaciones in­dividuales: 
+<lb/>los confeccionadores de filtros, las brujas que volaban 
+<lb/>a caballo en animales y objetos extraños (el símbolo fálico de la 
+<lb/>escoba) las deformidades físicas como signo de bruería, (los pe­zones 
+<lb/>supernumerarios que servían para alimentar a los anima­les 
+<lb/>familiares, en fin, toda una inmensa construcción que alucinó 
+<lb/>la mente de Europa y extendió el pavor sobre ciudades, campos 
+<lb/>y aldeas, en las horas de la noche. Para estudiar los detalles de la 
+<lb/>evolución de la brujería y su persecución, harían falta libros lle­nos 
+<lb/>de copioso material.</p><lb/>
+<p><lb/>El abolengo de la hechicería, es tan antiguo como el mundo. Su
+<lb/>advenimiento a la historia de Europa, se realiza como una repre­sentación 
+<lb/>de los antiguos cultos paleolíticos a la fertilidad que 
+<lb/>se transmiten al Oriente -recordemos el libro de Oseas- se tras­ladan 
+<lb/>a la civilización del Egeo, y se transmiten a Grecia donde 
+<lb/>se  encarnan  en  los  dioses helenos, para trasladarse después al
+<lb/>Lacio.</p><lb/>
+<p><lb/>Al  través de toda la Edad Media la  encontrarnos latente, y ya 
+<lb/>en periodo de la Baja Edad Media se empieza a cumplir su pa­pel
+<lb/>determinante dentro de la historia  y su problema comienza 
+<lb/>a relacionarse intrincadamente con los problemas emergentes de
+<lb/>la libertad del pensa1niento. El Renacimiento parece proteger a 
+<lb/>Italia, y sin embargo, ella también se ve afectada; y los rastros 
+<lb/>de la hechicería y de la turbación de las mentes en relación con 
+<lb/>ella, se prolongan más aún hasta el mismo siglo XVII y principios 
+<lb/>del XVIII. Hallamos entonces procesos de hechicería como 
+<lb/>el de 1a Voisin y el Abate Guibourg, en el cual se ve implicada la 
+<lb/>monarquía de Luis XIV. El racionalismo y el impulso vigoroso de 
+<lb/>los enciclopedistas disminuyen su poderío, y la Revolución Fran­cesa 
+<lb/>la liquida, por decirlo así, definitivamente. Aunque de tiempo­ 
+<lb/>en tiempo su sombra inquietante vuelve a surgir.</p><lb/>
+         </div>
+      </body>
+  </text>
+</TEI>
