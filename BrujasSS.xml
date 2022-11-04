@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consideración de brujas y otras gentes engañosas</title>
+            <author>Pedro Gómez Valderrama</author>
+            <editor>KarymeAlejandra CardonaBotero, Santiago Castellanos-Meléndez, Sofía Jaramillo-Appleby y Sofía Sánchez-Urrego</editor>
+                    </titleStmt>
+         <publicationStmt>
+            <p>Edición basada en la Revista Mito</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="Chapter">
+         <head>III</head>
+         <p><lb/>
+         Los antropólogos sitúan como probable origen de la hechicería, 
+<lb/>los restos de antiguas religiones de Europa. M. Murray (3), 
+<lb/>Pennethorne Hughes (4) y muchos otros coinciden en esta opinión.</p><lb/>
+<p>Sabido es que las conversiones de los pueblos bárbaros al cristianismo 
+<lb/>fueron realizándose lentamente, de arriba hacia abajo, convirtiéndose 
+<lb/>primeramente los reyes y los jefes, y extendiéndose 
+<lb/>luego al estado llano. (Los primeros siglos de la Edad Media, 
+<lb/>presencian este fenómeno entre las tribus de los bárbaros. En muchos 
+<lb/>casos, estas conversiones populares eran sólo aparentes, quedando 
+<lb/>en realidad bajo ellas el recuerdo de los dioses antiguos 
+<lb/>destronados. Roma antes de la cristiandad, había expandido en el 
+<lb/>mundo conocido su religión, la cual se había mezclado con las 
+<lb/>religiones vernáculas. Murray distingue, dentro de estos elementos 
+<lb/>confusos que arrojan las imperfectas versiones recibidas sobre la 
+<lb/>hechicería, las cuales son todas versiones unilaterales de aquellos 
+<lb/>que estaban comisionado para investigar y procesar, una serie de 
+<lb/>elementos pertenecientes a las primeras religiones de los pueblos 
+<lb/>que habitaron Europa. Elementos tanto de culto, como de 
+<lb/>deidades, encarnados primero en animales, luego en hombres y 
+<lb/>mujeres. Entre estos dioses, existía entre los primitivos pueblos de 
+<lb/>Italia, un dios en forma de hombre Janus o Dianus, cuyo femenino 
+<lb/>es Diana, que se confunde con la Artemisa griega y la 
+<lb/>Diana latina, para venir ser la deidad de las brujas. Igualmente 
+<lb/>según Murray, las fechas de las fiestas, la víspera de mayo y la 
+<lb/>de noviembre, indican el uso de un calendario anterior a la época 
+<lb/>de los pueblos agrícolas, y a la división solsticial del año.</p>
+<p>
+La organización de los hechiceros, extendida a través de Europa, 
+<lb/>era una especie de organización federativa. En la época en 
+<lb/>que el contagio invadió a Norteamérica, cuando se cumplieron los 
+<lb/>tremendos Procesos de Salem, Cotton Mather decía: "Los hechiceros 
+<lb/>están organizados como en Iglesias congregacionales". En las 
+<lb/>Iglesias congregacionales, hay un cuerpo que maneja los asuntos 
+<lb/>de la Iglesia, y un ministro que conduce el servicio y es el jefe 
+<lb/>religioso, que puede tener un suplente que lo reemplace. Cada 
+<lb/>Iglesia es entidad independiente, y no conectada con otra. 
+<lb/>Igualmente estaban organizados los hechiceros.</p>
+
+<p>La penetración del cristianismo hacia las clases bajas vino 
+<lb/>lentamente, sobre el pueblo que continuaba sus antiguos ritos, ya 
+<lb/>mezclándolos con prácticas cristianas. A medida que la Cristiandad 
+<lb/>afianzó su poder, vinieron leyes más severas para prevenir 
+<lb/>la práctica de ritos paganos. Poco a poco, empieza la persecución. 
+<lb/>Primeramente las sanciones son solamente de carácter espiritual, 
+<lb/>pero al llegar el siglo XV, se declara guerra abierta en contra de 
+<lb/>aquellos últimos rastros del paganismo, y los adoradores de Diana 
+<lb/>comienzan a perecer, con el auxilio del brazo secular.</p>
+
+<p>Desde luego, de la subsistencia de esos cultos paganos, anteriores 
+<lb/>a la religión griega y romana, y mezclados con ella, hay flaca 
+<lb/>prueba en los cronistas, cuyo celo por demostrar que Ja única 
+<lb/>religión era la cristiana, les lleva a desfigurar estos hechos. Y es 
+<lb/>así como el dios pagano -Diana, reemplazada o ayudada por
+<lb/>Dionisos- se transforma, poco a poco, en Satán. Desde luego, con el 
+<lb/>avance de los siglos, este culto primitivo va desapareciendo cada 
+<lb/>vez más y deformándose en la mente de quienes lo practican, y 
+<lb/>dentro de ellos mismos se cumple también esa transformación.</p>
+
+<p>Serían innumerables los ejemplos que podrían extraerse para 
+<lb/>afirmar estas tesis. Baste, sin embargo, con citar que en el siglo 
+<lb/>IV, en las islas cercanas a Jersey y Guernesey, existía el culto a 
+<lb/>Dionisos, cuyos ritos eran practicados por mujeres. Y que, en el 
+<lb/>siglo IX, en un decreto atribuido a un concilio general de Ancyra,
+<lb/>se lee lo siguiente: "Algunas mujeres malvadas, regresando a Satán, 
+<lb/>y seducidas por ilusiones y fantasmas de demonios, creen y 
+<lb/>profesan que cabalgan en la noche con Diana sobre ciertas bestias, 
+<lb/>con una innumerable multitud de mujeres; pasando sobre 
+<lb/>inmensas distancias, obedeciendo sus órdenes como su Señora, y 
+<lb/>siendo evocadas por ella en ciertas noches". (5).</p>
+
+<p>Una prueba más de que, en el fondo, la hechicería no sería otra 
+<lb/>cosa que la subsistencia de antiquísimos cultos a la fertilidad, a 
+<lb/>más de las mismas ceremonias de los ritos, de carácter, definidamente 
+<lb/>sexual, se encuentra en la misma Bula de 1484, del Papa 
+<lb/>Inocencio VIII, que marca el comienzo de la destrucción de la 
+<lb/>brujería. En ella, más que referirse al efecto de las prácticas de 
+<lb/>hechicería sobre el lado moral del pueblo, se insiste en el poder 
+<lb/>de dichas prácticas sobre la fertilidad de los seres y las cosas. Así 
+<lb/>como en el "Malleus Maleficarum", el famoso Martillo de las Brujas, 
+<lb/>se dedican capítulos enteros a describir la forma en que las 
+<lb/>brujas operaban con sus prácticas sobre la fertilidad.</p>
+
+<p>Entre los pueblos primitivos actuales, aún se conservan estos 
+<lb/>ritos de la fertilidad. Sin ahondar en el asunto, baste citar a Sir 
+<lb/>James Frazer (6) quien menciona como los Pipiles de Centro América, 
+<lb/>se mantenían aparte de sus mujeres hasta la noche anterior 
+<lb/>a la siembra, y aun designaban a algunos de entre ellos para cumplir 
+<lb/>el acto sexual en el momento en que se echaban al surco las 
+<lb/>primeras semillas. Igual costumbre existe en Java e igual creencia 
+<lb/>y costumbre hay entre los campesinos de la región de 
+<lb/>Cam­pine en Bélgica. Ya el Código de Manú establecía esta relación de 
+<lb/>la tierra y el ser humano, al hablar de la mujer como campo, y 
+<lb/>del hombre como sembrador, idea que vuelve muchas veces en 
+<lb/>los trágicos griegos, y que induce a establecer una relación 
+<lb/>profunda según anota algún autor entre ella y la invención del 
+<lb/>primer arado que se usó para las siembras.</p>
+
+<p>En las relaciones de los procesos de brujería se encuentra un 
+<lb/>rasgo común casi a todos los procesados: su obstinación en 
+<lb/>negarse al arrepentimiento. Es este un rasgo que constituye un 
+<lb/>argumento más para demostrar que se trataba de una religión 
+<lb/>diferente de la cristiana, antes que de una adoración al demonio, 
+<lb/>y que a ésta sólo se llega por deformación de la primera. La 
+<lb/>hechicería no era cuestión de círculos restringidos. sino de muchas
+<lb/>gentes. De ello da fe el número de gentes que perecieron en la 
+<lb/>hoguera. Si hubiese sido poca gente, ello podría interpretarse 
+<lb/>simplemente como un snobismo de adoración del mal, que puede 
+<lb/>existir ⎼y de hecho ha existido⎼ en las élites. Pero es muy 
+<lb/>difícil que como tendencia social se presente la adoración de la 
+<lb/>noción del mal. El fenómeno es que todo se ve a través de los 
+<lb/>escritos de quienes combatieron la hechicería. No hay un solo 
+<lb/>testimonio de los hechiceros. Hay, sí, algunos testimonios de 
+<lb/>escépticos, (7) que corroboran este pcnsamiiento. Pero los testimonios 
+<lb/>de los procesos solamente pueden ser tomados en cuenta con 
+<lb/>beneficio de inventario en primer lugar desde el punto de vista de 
+<lb/>la transcripción, y segundo, en lo que se refiere a la identidad del 
+<lb/>ídolo que allí se designa como Satanás. Para el cristiano era 
+<lb/>lógico considerar como diabólico aquél culto que contradecía las 
+<lb/>normas de su propia religión. Siglos de combate sangriento 
+<lb/>fueron acorralando a los hechiceros. La noción del Mal del cristianismo, 
+<lb/>llenaba el mundo civilizado, y envolvía dentro de ella los 
+<lb/>ídolos paganos, iba de un extremo a otro, era devuelta por el 
+<lb/>eco. Los hechiceros vivían en un mundo cristiano, en el cual se 
+<lb/>les presentaba la alternativa de la conversión. La otra alternativa 
+<lb/>era permanecer en su fé, y, sin ellos saberlo, que su contraposición 
+<lb/>con el cristianismo y su idea del mal les transformara su 
+<lb/>conciencia religiosa en una conciencia de pecado. como en efecto 
+<lb/>sucedió. Hay un momento, imposible de determinar en que la 
+<lb/>práctica honesta de sus creencias secretas se transforma. Y en 
+<lb/>ese momento, como en la descripción de Paul de	Saint Victor (8), 
+<lb/>Dionisos se transforma en Satán. Entonces encuentra ya el 
+<lb/>deleite del pecado como pecado; y el culto a la fertilidad ha 
+<lb/>asociado desde un comienzo el sexo a sus prácticas, pero ahora, bajo 
+<lb/>esta noción del mal que ha cobijado los restos del naufragio 
+<lb/>religioso, el sexo deviene también objeto del placer del pecado, y 
+<lb/>el punto de la búsqueda de la nueva voluptuosidad del mal. Y 
+<lb/>aparece entonces el monstruoso caso de Giles de Rais, directo 
+<lb/>predecesor del Marqués de Sade, el cual tampoco habrá podido 
+<lb/>independizarse totalmente de esa voluptuosidad siniestra del mal, 
+<lb/>creada a través de la hoguera y los cepos de tortura.</p>
+<p>En esta forma el extremo rigor para hacer desaparecer una 
+<lb/>creencia, crea corrientes subterráneas para el mal, que lo 
+<lb/>conducen a la superficie siglos después. Y la escoba de la hechicera 
+<lb/>llega en un momento dado a tener la longitud de una palanca 
+<lb/>que amenaza el mundo.</p>
+         </div>
+      </body>
+  </text>
+</TEI>
