@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consideración de Brujas y Otras Gentes Engañosas</title>
+            <author>Pedro Gómez Valderrama</author>
+            <editor>KarymeAlejandra CardonaBotero</editor>
+            <editor>SantiagoCastellanos_Meléndez</editor>
+            <editor>SofiaJaramillo_Appleby</editor>
+            <editor>SofiaSanchez_Urrego</editor>
+
+                    </titleStmt>
+         <publicationStmt>
+            <p>Esta edicion se basa en la revista MITO</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Revista MITO</pubPlace>
+         <publisher></publisher>
+         <date when="0000"></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="chapter">
+         <head>II</head> 
+            <p> 
+            Si intentamos definirla, no podríamos en una definición abar­car <lb/>
+            todos los períodos de ella. No podemos remontarnos al antiguo <lb/> 
+            Egipto, ni al pueblo judío. Saúl consultando a la Sibila de Endor, <lb/>
+            demuestra sin embargo que ya en tal época había una influencia <lb/>
+            de la hechicería sobre la política del pueblo de Israel, influencia <lb/>
+            que	a principios de la Edad Moderna habrá de manifestarse en <lb/>
+            una forma distinta y contrapuesta. <lb/>
+            </p>
+
+            <p>
+            Las gentes de hoy tienden a mirar escépticamente estos fenó­menos, <lb/>
+            y a extender ese escepticismo al campo social. Sin embargo, <lb/>
+            fué este un fenómeno que abarcó varios siglos en sus <lb/>
+            ma­nifestaciones,y produjo una psicosis colectiva por una parte, y <lb/>
+            un tremendo contagio por otra. Por esta razón, no es ni inútil ni <lb/>
+            extravagante detenerse en su análisis. Tanto más cuanto que el <lb/>
+            mundo, en los últimos años, ha vuelto a ocuparse del demonio. <lb/>
+            Mientras se organizan exposiciones co1no la que en años pasados <lb/>
+            hubo en Roma, en la cual se exponían todas las formas de <lb/>
+            representación pictórica del demonio. escritores como Huxley y Papini <lb/>
+            dedican libros al estudio de aquél. El demonio vuelve a la literatura, <lb/>
+            ya sea en <foreign xml:lang="en">"The Crucible"</foreign>, la obra de Arthur Miller, o en las <lb/>
+            novelas de Graham Greene. El fin de la Edad de la Razón, en que <lb/>
+            tanto insisten muchos escritores, no es otra cosa que el desencadenamiento <lb/>
+            de fuerzas malignas que  se ensañan sobre el mundo.<lb/>
+            ¿Qué es, en el fondo, lo que ocurre? Que el sacrificio de la libertad <lb/>
+            personal, su restricción brutal, desencadena una serie de fuerzas <lb/>
+            que llegan a terrenos del individuo que están por su naturale­za <lb/>
+            vedados a personas distintas de él mismo. El demonio de la li­teratura <lb/>
+            moderna, en la preocupación diaria de las gentes, no es otra <lb/>
+            cosa que esa desaparición de la libertad. <lb/>
+            </p>
+
+            <p> 
+            Es sorprendente encontrar en la Alta Edad Media tan pocos ras­tros <lb/>
+            de procesos por hechicería. La creencia más generalizada, es <lb/>
+            la de que toda la Edad Media estuvo gobernada por esta psicosis. <lb/>
+            Evidentemente, la hechicería tuvo sus orígenes en la Edad Media, <lb/>
+            y al través de ella existió y prosperó. Pero sólo cuando empieza <lb/>
+            el final de la Edad Media, el hecho social se pronuncia en toda <lb/>
+            su gravedad. Hay en él un complejo de circunstancias que examina­remos <lb/>
+            en seguida. Hay dos partes por examinar: la primera de ellas, <lb/>
+            cómo surge la hechicería. Y la segunda, cómo surge parale­lamente <lb/>
+            la intolerancia, cómo surgen los procesos de brujería, y <lb/>
+            cómo se trata de ahogar en ríos de sangre la secta de los brujos. <lb/>
+            Y, además, cómo ante la represión bárbara, el contagio se extien­de <lb/>
+            poderosamente. <lb/>
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
