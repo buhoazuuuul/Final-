@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consideración de Brujas y Otras Gentes Engañosas</title>
+            <author>Pedro Gómez Valderrama</author>
+            <editor>KarymeAlejandra CardonaBotero</editor>
+            <editor>SantiagoCastellanos-Meléndez</editor>
+            <editor>SofiaJaramillo_Appleby</editor>
+            <editor>SofiaSanchez-Urrego</editor>
+
+                    </titleStmt>
+         <publicationStmt>
+            <p>Esta edicion se basa en la revista MITO</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Revista MITO</pubPlace>
+         <publisher></publisher>
+         <date when="0000"></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      <div type="chapter">
+        <head>I</head>  
+            <p><lb/>La torre gótica ha esparcido el silencio en la  noche del pueblo 
+            <lb/>-en  los Pirineos, o en una apartada región británica, o a la ori­lla
+            <lb/>del Rhin-. Es la  noche del 30 de abril, la noche de Walpurgis.
+            <lb/>La luna acumula medrosamente las sombras en la calle, y por nada 
+            <lb/>del mundo ninguno de los vecinos del  pueblecillo situado en 
+            <lb/>las postrimerías de la	Edad Media, saldría del cobijo seguro de 
+            <lb/>su casa. Sin embargo tras los fuertes postigos de madera alguien 
+            <lb/>vigila en todas y cada una de las casas. Todos los ojos se dirigen 
+            <lb/>a lo alto, esperando ver pasar la bruja en su cabalgadura siniestra.
+            <lb/>El solo paso de una nube pondrá pavor en los ánimos más tem­plados
+            <lb/>Pero ,entre tanto, hay una, dos, tres, más sombras, que se 
+            <lb/>mueven sigilosa1nente a través del	empedrado de las calles estrechas, 
+            <lb/>seguras de que los ojos dirigidos hacia arriba las dejarán 
+            <lb/>escapar desapercibidas. Apenas pasado el recinto de la villa, y co­bijándose 
+            <lb/>bajo la pesada sombra que arroja la	masa del castillo 
+            <lb/>feudal -del cual acaso sale otra sombra a reunirse con ellas- pa­san 
+            <lb/>de los lugares donde pueden ser sorprendidas, y adentrándo­se 
+            <lb/>en el bosque, llegan por fin a un claro de aquél, en el cual se 
+            <lb/>escucha una música asardinada y monótona, y acaso encuentran 
+            <lb/>ya que las sombras reunidas de hombres y mujeres danzan, tal y 
+            <lb/>como lo cuenta uno de los tantos que recogieron testimonios  so­bre 
+            <lb/>la hechicerÍa: "Los hechiceros danzan y tejen su danza en 
+            <lb/>círculo, espalda contra espalda. Los cojos van más dispuestamen­te 
+            <lb/>que los otros, y les incitan a saltar y danzar... A veces, 
+            <lb/>pero raramente, danzan de dos en dos, a veces uno acá, el otro allá, y 
+            <lb/>siempre en confusión, son estas danzas semejantes a las de las Ha­das, 
+            <lb/>verdaderos Diablos incorporados"(1).</p><lb/>
+            <p><lb/>Ha comenzado el sabbath.  Por las descripciones,  podemos	re­conocer 
+            <lb/>el lugar señalado por "un bloque de piedra  aislado, de 
+            <lb/>aspecto extraordinario, y llamado generalmente "piedra del dia­blo"
+            <lb/>(2). O bien, si no existe el signo pétreo encontramos otro, co­mo 
+            <lb/>el que indica Jean Bodin: "Los lugares de las asambleas de hechiceros 
+            <lb/>son notables, y señalados de algunos árboles en cruz". Así 
+            <lb/>como cncontramos otra indicación que nos ayuda a comprender 
+            <lb/>el lugar, en este aparte de las Leyes de Canuto (S. XI. Inglate­rra): 
+            <lb/>"Severamente prohibimos todo paganismo; paganismo es que 
+            <lb/>los hombres adoren ídolos; esto es, que adoren dioses paganos, o 
+            <lb/>piedras, o árboles del bosque de cualquier clase". Según algunos 
+            <lb/>-coincidiendo todos en señalar un sitio cercano a las aldeas- el 
+            <lb/>sabbath se cumplía muchas veces en los cruces de caminos, en lo 
+            <lb/>cual posiblemente se encuentre una referencia religiosa. Y hay 
+            <lb/>casos en que se cumplía dentro de la ciudad; esto, generalmente 
+            <lb/>no en	la noche de Walpurgis sino en él festival de la víspera del 
+            <lb/>primero de noviembre (All hallows eve), y en aquellas otras fe­chas 
+            <lb/>en que e! festival decía cumplirse en otoño o invierno. El 
+            <lb/>festival se prolongaba desde la medianoche hasta el alba, hora en 
+            <lb/>la cual, según De Lancre, el canto del gallo ordenaba la retirada a 
+            <lb/>los hechiceros.</p><lb/>
+            <p><lb/>En el "Pleasant Treatise of Witches", obra aparecida en Lon­dres 
+            <lb/>en 1673, cuando ya el auge de la hechicería se encontraba en 
+            <lb/>su clímax y comenzaba a ceder, hay una viva descripción, cuyos 
+            <lb/>apartes nos muestran cómo concebía la imaginación de la época 
+            <lb/>el aquelarre de los brujos:</p><lb/>
+            <p><lb/>"Ellos son llevados fuera de su casa, ya sea por la ventana, la 
+            <lb/>puerta o la chimenea, montados en sus escobas... y así traídos 
+            <lb/>al sitio designado, encuentran gran número de compañeros llega­dos 
+            <lb/>allí por los mismos medios: Los cuales, antes de que Lucifer 
+            <lb/>tome su puesto en el trono como Rey, deben tributarle su acos­tumbrado 
+            <lb/>homenaje, adorándole y proclamándole como su Señor, 
+            <lb/>y rindiéndole todo honor. Terminada esta solemnidad, se sientan 
+            <lb/>a la mesa, donde no faltan delicados manjares... Al sonido de 
+            <lb/>muchos agradables instrumentos, se retira la mesa, y el amable 
+            <lb/>consorte invita a todos a la Danza... Por último las luces se apa­gan. 
+            <lb/>Los íncubos en forma de hombres cabales satisfacen los de­seos 
+            <lb/>de las hechiceras, y los súcubos sirven como rameras a los 
+            <lb/>brujos. Finalmente, antes de que la Aurora traiga de nuevo el 
+            <lb/>día, cada uno cabalga en su espíritu, y retorna a su morada". Con­cluye 
+            <lb/>el párrafo citado, con los grotescos detalles del ósculo de 
+            <lb/>homenaje al demonio.</p>
+            <p>
+            Esta es, pues, la "mise en scene" que durante siglos los calen­turientos 
+            <lb/>cerebros de los cazadores de brujas manejaron a lo lar­go 
+            <lb/>y a lo ancho de Europa. De ella surgieron las implicaciones in­dividuales: 
+            <lb/>los confeccionadores de filtros, las brujas que volaban 
+            <lb/>a caballo en animales y objetos extraños (el símbolo fálico de la 
+            <lb/>escoba) las deformidades físicas como signo de bruería, (los pe­zones 
+            <lb/>supernumerarios que servían para alimentar a los anima­les 
+            <lb/>familiares, en fin, toda una inmensa construcción que alucinó 
+            <lb/>la mente de Europa y extendió el pavor sobre ciudades, campos 
+            <lb/>y aldeas, en las horas de la noche. Para estudiar los detalles de la 
+            <lb/>evolución de la brujería y su persecución, harían falta libros lle­nos 
+            <lb/>de copioso material.</p><lb/>
+            <p><lb/>El abolengo de la hechicería, es tan antiguo como el mundo. Su
+            <lb/>advenimiento a la historia de Europa, se realiza como una repre­sentación 
+            <lb/>de los antiguos cultos paleolíticos a la fertilidad que 
+            <lb/>se transmiten al Oriente -recordemos el libro de Oseas- se tras­ladan 
+            <lb/>a la civilización del Egeo, y se transmiten a Grecia donde 
+            <lb/>se  encarnan  en  los  dioses helenos, para trasladarse después al
+            <lb/>Lacio.
+            </p>
+            
+            <p><lb/>Al  través de toda la Edad Media la  encontrarnos latente, y ya 
+            <lb/>en periodo de la Baja Edad Media se empieza a cumplir su pa­pel
+            <lb/>determinante dentro de la historia  y su problema comienza 
+            <lb/>a relacionarse intrincadamente con los problemas emergentes de
+            <lb/>la libertad del pensa1niento. El Renacimiento parece proteger a 
+            <lb/>Italia, y sin embargo, ella también se ve afectada; y los rastros 
+            <lb/>de la hechicería y de la turbación de las mentes en relación con 
+            <lb/>ella, se prolongan más aún hasta el mismo siglo XVII y principios 
+            <lb/>del XVIII. Hallamos entonces procesos de hechicería como 
+            <lb/>el de 1a Voisin y el Abate Guibourg, en el cual se ve implicada la 
+            <lb/>monarquía de Luis XIV. El racionalismo y el impulso vigoroso de 
+            <lb/>los enciclopedistas disminuyen su poderío, y la Revolución Fran­cesa 
+            <lb/>la liquida, por decirlo así, definitivamente. Aunque de tiempo­ 
+            <lb/>en tiempo su sombra inquietante vuelve a surgir.
+            </p>
+         </div>
+
+         <div type="chapter">
+         <head>II</head> 
+            <p> 
+            <lb/>Si intentamos definirla, no podríamos en una definición abar­car 
+            <lb/>todos los períodos de ella. No podemos remontarnos al antiguo  
+            <lb/>Egipto, ni al pueblo judío. Saúl consultando a la Sibila de Endor, 
+            <lb/>demuestra sin embargo que ya en tal época había una influencia 
+            <lb/>de la hechicería sobre la política del pueblo de Israel, influencia 
+            <lb/>que	a principios de la Edad Moderna habrá de manifestarse en 
+            <lb/>una forma distinta y contrapuesta. 
+            </p>
+
+            <p>
+            <lb/>Las gentes de hoy tienden a mirar escépticamente estos fenó­menos, 
+            <lb/>y a extender ese escepticismo al campo social. Sin embargo, 
+            <lb/>fué este un fenómeno que abarcó varios siglos en sus 
+            <lb/>ma­nifestaciones,y produjo una psicosis colectiva por una parte, y 
+            <lb/>un tremendo contagio por otra. Por esta razón, no es ni inútil ni 
+            <lb/>extravagante detenerse en su análisis. Tanto más cuanto que el 
+            <lb/>mundo, en los últimos años, ha vuelto a ocuparse del demonio. 
+            <lb/>Mientras se organizan exposiciones co1no la que en años pasados 
+            <lb/>hubo en Roma, en la cual se exponían todas las formas de 
+            <lb/>representación pictórica del demonio. escritores como Huxley y Papini 
+            <lb/>dedican libros al estudio de aquél. El demonio vuelve a la literatura, 
+            <lb/>ya sea en <foreign xml:lang="en">"The Crucible"</foreign>, la obra de Arthur Miller, o en las 
+            <lb/>novelas de Graham Greene. El fin de la Edad de la Razón, en que
+            <lb/>tanto insisten muchos escritores, no es otra cosa que el desencadenamiento <
+            <lb/>de fuerzas malignas que  se ensañan sobre el mundo.
+            <lb/>¿Qué es, en el fondo, lo que ocurre? Que el sacrificio de la libertad 
+            <lb/>personal, su restricción brutal, desencadena una serie de fuerzas 
+            <lb/>que llegan a terrenos del individuo que están por su naturale­za 
+            <lb/>vedados a personas distintas de él mismo. El demonio de la li­teratura 
+            <lb/>moderna, en la preocupación diaria de las gentes, no es otra 
+            <lb/>cosa que esa desaparición de la libertad. 
+            </p>
+
+            <p> 
+            <lb/>Es sorprendente encontrar en la Alta Edad Media tan pocos ras­tros 
+            <lb/>la de que toda la Edad Media estuvo gobernada por esta psicosis. 
+            <lb/>Evidentemente, la hechicería tuvo sus orígenes en la Edad Media, 
+            <lb/>y al través de ella existió y prosperó. Pero sólo cuando empieza 
+            <lb/>el final de la Edad Media, el hecho social se pronuncia en toda
+            <lb/>su gravedad. Hay en él un complejo de circunstancias que examina­remos 
+            <lb/>en seguida. Hay dos partes por examinar: la primera de ellas, 
+            <lb/>cómo surge la hechicería. Y la segunda, cómo surge parale­lamente 
+            <lb/>la intolerancia, cómo surgen los procesos de brujería, y 
+            <lb/>cómo se trata de ahogar en ríos de sangre la secta de los brujos. 
+            <lb/>Y, además, cómo ante la represión bárbara, el contagio se extien­de 
+            <lb/>poderosamente. <lb/>
+            </p>
+         </div>
+
+        <div type="Chapter">
+        <head>III</head>
+            <p><lb/>
+            Los antropólogos sitúan como probable origen de la hechicería, 
+            <lb/>los restos de antiguas religiones de Europa. M. Murray (3), 
+            <lb/>Pennethorne Hughes (4) y muchos otros coinciden en esta opinión.</p><lb/>
+            <p>Sabido es que las conversiones de los pueblos bárbaros al cristianismo 
+            <lb/>fueron realizándose lentamente, de arriba hacia abajo, convirtiéndose 
+            <lb/>primeramente los reyes y los jefes, y extendiéndose 
+            <lb/>luego al estado llano. (Los primeros siglos de la Edad Media, 
+            <lb/>presencian este fenómeno entre las tribus de los bárbaros. En muchos 
+            <lb/>casos, estas conversiones populares eran sólo aparentes, quedando 
+            <lb/>en realidad bajo ellas el recuerdo de los dioses antiguos 
+            <lb/>destronados. Roma antes de la cristiandad, había expandido en el 
+            <lb/>mundo conocido su religión, la cual se había mezclado con las 
+            <lb/>religiones vernáculas. Murray distingue, dentro de estos elementos 
+            <lb/>confusos que arrojan las imperfectas versiones recibidas sobre la 
+            <lb/>hechicería, las cuales son todas versiones unilaterales de aquellos 
+            <lb/>que estaban comisionado para investigar y procesar, una serie de 
+            <lb/>elementos pertenecientes a las primeras religiones de los pueblos 
+            <lb/>que habitaron Europa. Elementos tanto de culto, como de 
+            <lb/>deidades, encarnados primero en animales, luego en hombres y 
+            <lb/>mujeres. Entre estos dioses, existía entre los primitivos pueblos de 
+            <lb/>Italia, un dios en forma de hombre Janus o Dianus, cuyo femenino 
+            <lb/>es Diana, que se confunde con la Artemisa griega y la 
+            <lb/>Diana latina, para venir ser la deidad de las brujas. Igualmente 
+            <lb/>según Murray, las fechas de las fiestas, la víspera de mayo y la 
+            <lb/>de noviembre, indican el uso de un calendario anterior a la época 
+            <lb/>de los pueblos agrícolas, y a la división solsticial del año.</p>
+            <p>
+            La organización de los hechiceros, extendida a través de Europa, 
+            <lb/>era una especie de organización federativa. En la época en 
+            <lb/>que el contagio invadió a Norteamérica, cuando se cumplieron los 
+            <lb/>tremendos Procesos de Salem, Cotton Mather decía: "Los hechiceros 
+            <lb/>están organizados como en Iglesias congregacionales". En las 
+            <lb/>Iglesias congregacionales, hay un cuerpo que maneja los asuntos 
+            <lb/>de la Iglesia, y un ministro que conduce el servicio y es el jefe 
+            <lb/>religioso, que puede tener un suplente que lo reemplace. Cada 
+            <lb/>Iglesia es entidad independiente, y no conectada con otra. 
+            <lb/>Igualmente estaban organizados los hechiceros.</p>
+
+            <p>La penetración del cristianismo hacia las clases bajas vino 
+            <lb/>lentamente, sobre el pueblo que continuaba sus antiguos ritos, ya 
+            <lb/>mezclándolos con prácticas cristianas. A medida que la Cristiandad 
+            <lb/>afianzó su poder, vinieron leyes más severas para prevenir 
+            <lb/>la práctica de ritos paganos. Poco a poco, empieza la persecución. 
+            <lb/>Primeramente las sanciones son solamente de carácter espiritual, 
+            <lb/>pero al llegar el siglo XV, se declara guerra abierta en contra de 
+            <lb/>aquellos últimos rastros del paganismo, y los adoradores de Diana 
+            <lb/>comienzan a perecer, con el auxilio del brazo secular.</p>
+
+            <p>Desde luego, de la subsistencia de esos cultos paganos, anteriores 
+            <lb/>a la religión griega y romana, y mezclados con ella, hay flaca 
+            <lb/>prueba en los cronistas, cuyo celo por demostrar que Ja única 
+            <lb/>religión era la cristiana, les lleva a desfigurar estos hechos. Y es 
+            <lb/>así como el dios pagano -Diana, reemplazada o ayudada por
+            <lb/>Dionisos- se transforma, poco a poco, en Satán. Desde luego, con el 
+            <lb/>avance de los siglos, este culto primitivo va desapareciendo cada 
+            <lb/>vez más y deformándose en la mente de quienes lo practican, y 
+            <lb/>dentro de ellos mismos se cumple también esa transformación.</p>
+
+            <p>Serían innumerables los ejemplos que podrían extraerse para 
+            <lb/>afirmar estas tesis. Baste, sin embargo, con citar que en el siglo 
+            <lb/>IV, en las islas cercanas a Jersey y Guernesey, existía el culto a 
+            <lb/>Dionisos, cuyos ritos eran practicados por mujeres. Y que, en el 
+            <lb/>siglo IX, en un decreto atribuido a un concilio general de Ancyra,
+            <lb/>se lee lo siguiente: "Algunas mujeres malvadas, regresando a Satán, 
+            <lb/>y seducidas por ilusiones y fantasmas de demonios, creen y 
+            <lb/>profesan que cabalgan en la noche con Diana sobre ciertas bestias, 
+            <lb/>con una innumerable multitud de mujeres; pasando sobre 
+            <lb/>inmensas distancias, obedeciendo sus órdenes como su Señora, y 
+            <lb/>siendo evocadas por ella en ciertas noches". (5).</p>
+
+            <p>Una prueba más de que, en el fondo, la hechicería no sería otra 
+            <lb/>cosa que la subsistencia de antiquísimos cultos a la fertilidad, a 
+            <lb/>más de las mismas ceremonias de los ritos, de carácter, definidamente 
+            <lb/>sexual, se encuentra en la misma Bula de 1484, del Papa 
+            <lb/>Inocencio VIII, que marca el comienzo de la destrucción de la 
+            <lb/>brujería. En ella, más que referirse al efecto de las prácticas de 
+            <lb/>hechicería sobre el lado moral del pueblo, se insiste en el poder 
+            <lb/>de dichas prácticas sobre la fertilidad de los seres y las cosas. Así 
+            <lb/>como en el "Malleus Maleficarum", el famoso Martillo de las Brujas, 
+            <lb/>se dedican capítulos enteros a describir la forma en que las 
+            <lb/>brujas operaban con sus prácticas sobre la fertilidad.</p>
+
+            <p>Entre los pueblos primitivos actuales, aún se conservan estos 
+            <lb/>ritos de la fertilidad. Sin ahondar en el asunto, baste citar a Sir 
+            <lb/>James Frazer (6) quien menciona como los Pipiles de Centro América, 
+            <lb/>se mantenían aparte de sus mujeres hasta la noche anterior 
+            <lb/>a la siembra, y aun designaban a algunos de entre ellos para cumplir 
+            <lb/>el acto sexual en el momento en que se echaban al surco las 
+            <lb/>primeras semillas. Igual costumbre existe en Java e igual creencia 
+            <lb/>y costumbre hay entre los campesinos de la región de 
+            <lb/>Cam­pine en Bélgica. Ya el Código de Manú establecía esta relación de 
+            <lb/>la tierra y el ser humano, al hablar de la mujer como campo, y 
+            <lb/>del hombre como sembrador, idea que vuelve muchas veces en 
+            <lb/>los trágicos griegos, y que induce a establecer una relación 
+            <lb/>profunda según anota algún autor entre ella y la invención del 
+            <lb/>primer arado que se usó para las siembras.</p>
+
+            <p>En las relaciones de los procesos de brujería se encuentra un 
+            <lb/>rasgo común casi a todos los procesados: su obstinación en 
+            <lb/>negarse al arrepentimiento. Es este un rasgo que constituye un 
+            <lb/>argumento más para demostrar que se trataba de una religión 
+            <lb/>diferente de la cristiana, antes que de una adoración al demonio, 
+            <lb/>y que a ésta sólo se llega por deformación de la primera. La 
+            <lb/>hechicería no era cuestión de círculos restringidos. sino de muchas
+            <lb/>gentes. De ello da fe el número de gentes que perecieron en la 
+            <lb/>hoguera. Si hubiese sido poca gente, ello podría interpretarse 
+            <lb/>simplemente como un snobismo de adoración del mal, que puede 
+            <lb/>existir ⎼y de hecho ha existido⎼ en las élites. Pero es muy 
+            <lb/>difícil que como tendencia social se presente la adoración de la 
+            <lb/>noción del mal. El fenómeno es que todo se ve a través de los 
+            <lb/>escritos de quienes combatieron la hechicería. No hay un solo 
+            <lb/>testimonio de los hechiceros. Hay, sí, algunos testimonios de 
+            <lb/>escépticos, (7) que corroboran este pcnsamiiento. Pero los testimonios 
+            <lb/>de los procesos solamente pueden ser tomados en cuenta con 
+            <lb/>beneficio de inventario en primer lugar desde el punto de vista de 
+            <lb/>la transcripción, y segundo, en lo que se refiere a la identidad del 
+            <lb/>ídolo que allí se designa como Satanás. Para el cristiano era 
+            <lb/>lógico considerar como diabólico aquél culto que contradecía las 
+            <lb/>normas de su propia religión. Siglos de combate sangriento 
+            <lb/>fueron acorralando a los hechiceros. La noción del Mal del cristianismo, 
+            <lb/>llenaba el mundo civilizado, y envolvía dentro de ella los 
+            <lb/>ídolos paganos, iba de un extremo a otro, era devuelta por el 
+            <lb/>eco. Los hechiceros vivían en un mundo cristiano, en el cual se 
+            <lb/>les presentaba la alternativa de la conversión. La otra alternativa 
+            <lb/>era permanecer en su fé, y, sin ellos saberlo, que su contraposición 
+            <lb/>con el cristianismo y su idea del mal les transformara su 
+            <lb/>conciencia religiosa en una conciencia de pecado. como en efecto 
+            <lb/>sucedió. Hay un momento, imposible de determinar en que la 
+            <lb/>práctica honesta de sus creencias secretas se transforma. Y en 
+            <lb/>ese momento, como en la descripción de Paul de	Saint Victor (8), 
+            <lb/>Dionisos se transforma en Satán. Entonces encuentra ya el 
+            <lb/>deleite del pecado como pecado; y el culto a la fertilidad ha 
+            <lb/>asociado desde un comienzo el sexo a sus prácticas, pero ahora, bajo 
+            <lb/>esta noción del mal que ha cobijado los restos del naufragio 
+            <lb/>religioso, el sexo deviene también objeto del placer del pecado, y 
+            <lb/>el punto de la búsqueda de la nueva voluptuosidad del mal. Y 
+            <lb/>aparece entonces el monstruoso caso de Giles de Rais, directo 
+            <lb/>predecesor del Marqués de Sade, el cual tampoco habrá podido 
+            <lb/>independizarse totalmente de esa voluptuosidad siniestra del mal, 
+            <lb/>creada a través de la hoguera y los cepos de tortura.</p>
+            <p>En esta forma el extremo rigor para hacer desaparecer una 
+            <lb/>creencia, crea corrientes subterráneas para el mal, que lo 
+            <lb/>conducen a la superficie siglos después. Y la escoba de la hechicera 
+            <lb/>llega en un momento dado a tener la longitud de una palanca 
+            <lb/>que amenaza el mundo.</p>
+         </div>
+
+
+      </body>
+  </text>
+</TEI>
