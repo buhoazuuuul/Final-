@@ -22,16 +22,16 @@
   </teiHeader>
   <text>
       <body>
-      <head>Consideración de Brujas y Otras Gnetes Engañosas</head>
+      <head>Consideración de Brujas y Otras Gnetes Engañosas</head>  
       <div type="chapter">
         <head>I</head>  
             <p>
             La <name type="place">torre</name> gótica ha esparcido el silencio en la  noche del <name type="place">pueblo</name> 
             —en  los <name type="place">Pirineos</name>, o en una apartada <name type="place">región británica</name>, o a la <name type="place">ori­lla</name>
-            del <name type="place">Rhin</name>—. Es la  noche del 30 de abril, la noche de Walpurgis.
+            del <name type="place">Rhin</name>—. Es la  noche del <date when="0870-04-30">30 de abril</date>, la noche de Walpurgis.
             La luna acumula medrosamente las sombras en la <name type="place">calle</name>, y por nada 
             del <name type="place">mundo</name> ninguno de los vecinos del  <name type="place">pueblecillo</name> situado en 
-            las postrimerías de la Edad Media, saldría del cobijo seguro de 
+            las postrimerías de la <date period="MiddleAge">Edad Media</date>, saldría del cobijo seguro de 
             su <name type="place">casa</name>. Sin embargo, tras los fuertes postigos de madera alguien 
             vigila en todas y cada una de las <name type="place">casas</name>. Todos los ojos se dirigen 
             a lo alto, esperando ver pasar la bruja en su cabalgadura siniestra.
@@ -52,20 +52,20 @@
             que los otros, y les incitan a saltar y danzar... A veces, 
             pero raramente, danzan de dos en dos, a veces uno acá, el otro allá, y 
             siempre en confusión, son estas danzas semejantes a las de las <name type="person">Ha­das</name>, 
-            verdaderos <name type="person">Diablos</name> incorporados"(1).
+            verdaderos <name type="person">Diablos</name> incorporados" <del>(1)</del>.
             </p>
             <p>
             Ha comenzado el sabbath.  Por las descripciones,  podemos	re­conocer 
-            el lugar señalado por "un bloque de piedra  aislado, de 
-            aspecto extraordinario, y llamado generalmente <name type="place">"piedra del dia­blo"</name>
+            el lugar señalado por <quote>"un bloque de piedra  aislado, de 
+            aspecto extraordinario, y llamado generalmente <name type="place">"piedra del dia­blo"</name></quote>
             (2). O bien, si no existe el signo pétreo encontramos otro, co­mo 
-            el que indica <name type="person">Jean Bodin</name>: "Los lugares de las asambleas de hechiceros 
-            son notables, y señalados de algunos árboles en cruz". Así 
+            el que indica <name type="person">Jean Bodin</name>: <quote>"Los lugares de las asambleas de hechiceros 
+            son notables, y señalados de algunos árboles en cruz"</quote>. Así 
             como encontramos otra indicación que nos ayuda a comprender 
             el lugar, en este aparte de las Leyes de <name type="person">Canuto</name> (S. XI. <name type="place">Inglate­rra</name>): 
-            "Severamente prohibimos todo paganismo; paganismo es que 
+            <quote>"Severamente prohibimos todo paganismo; paganismo es que 
             los hombres adoren ídolos; esto es, que adoren dioses paganos, o 
-            piedras, o árboles del <name type="place">bosque</name> de cualquier clase". Según algunos 
+            piedras, o árboles del <name type="place">bosque</name> de cualquier clase"</quote>. Según algunos 
             -coincidiendo todos en señalar un sitio cercano a las <name type="place">aldeas</name>- el 
             sabbath se cumplía muchas veces en los cruces de <name type="place">caminos</name>, en lo 
             cual posiblemente se encuentre una referencia religiosa. Y hay 
@@ -79,12 +79,12 @@
             </p>
             <p>
             En el "<foreign xml:lang="en">Pleasant Treatise of Witches</foreign>", obra aparecida en <name type="place">Lon­dres</name> 
-            en 1673, cuando ya el auge de la hechicería se encontraba en 
+            en <date when="1673">1673</date>, cuando ya el auge de la hechicería se encontraba en 
             su clímax y comenzaba a ceder, hay una viva descripción, cuyos 
             apartes nos muestran cómo concebía la imaginación de la época 
             el aquelarre de los brujos:</p><lb/>
             <p>
-            "Ellos son llevados fuera de su <name type="place">casa</name>, ya sea por la ventana, la 
+            <quote>"Ellos son llevados fuera de su <name type="place">casa</name>, ya sea por la ventana, la 
             puerta o la chimenea, montados en sus escobas... y así traídos 
             al sitio designado, encuentran gran número de compañeros llega­dos 
             allí por los mismos medios: Los cuales, antes de que <name type="person">Lucifer</name> 
@@ -97,7 +97,7 @@
             Los íncubos en forma de hombres cabales satisfacen los de­seos 
             de las hechiceras, y los súcubos sirven como rameras a los 
             brujos. Finalmente, antes de que la Aurora traiga de nuevo el 
-            día, cada uno cabalga en su espíritu, y retorna a su <name type="place">morada</name>". Con­cluye 
+            día, cada uno cabalga en su espíritu, y retorna a su <name type="place">morada</name>"</quote>. Con­cluye 
             el párrafo citado, con los grotescos detalles del ósculo de 
             homenaje al demonio.
             </p>
@@ -126,15 +126,15 @@
             Lacio.
             </p>
             <p>
-            Al  través de toda la Edad Media la  encontrarnos latente, y ya 
-            en periodo de la Baja Edad Media se empieza a cumplir su pa­pel
+            Al  través de toda la <date period="MiddleAge">Edad Media</date> la  encontrarnos latente, y ya 
+            en periodo de la <date period="MiddleAge">Baja Edad Media</date> se empieza a cumplir su pa­pel
             determinante dentro de la historia  y su problema comienza 
             a relacionarse intrincadamente con los problemas emergentes de
-            la libertad del pensamiento. El Renacimiento parece proteger a 
+            la libertad del pensamiento. <date period="renaissance">El Renacimiento</date> parece proteger a 
             <name type="country">Italia</name>, y sin embargo, ella también se ve afectada; y los rastros 
             de la hechicería y de la turbación de las mentes en relación con 
-            ella, se prolongan más aún hasta el mismo siglo XVII y principios 
-            del XVIII. Hallamos entonces procesos de hechicería como 
+            ella, se prolongan más aún hasta el mismo siglo <date period="XVIIcentury">XVII</date> y principios 
+            del <date period="XVIIIcentury">XVIII</date>. Hallamos entonces procesos de hechicería como 
             el de la <name type="person">Voisin</name> y el <name type="person">Abate Guibourg</name>, en el cual se ve implicada la 
             monarquía de <name type="person">Luis XIV</name>. El racionalismo y el impulso vigoroso de 
             los enciclopedistas disminuyen su poderío, y la Revolución Fran­cesa 
